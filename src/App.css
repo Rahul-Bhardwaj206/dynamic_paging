@@ -1,0 +1,12 @@
+body {
+  background: rgb(129,135,127);
+  background: linear-gradient(90deg, rgba(129,135,127,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+h2 {
+  margin: 32px 0;
+  color: #fff;
+  font-size: 32px;
+  text-align: center;
+  text-decoration: underline;
+}
